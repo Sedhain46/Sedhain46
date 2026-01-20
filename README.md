@@ -1,4 +1,5 @@
-## 🎓 Beginner programming student  
+## 👋 Hi, I’m Smarika
+🎓 Beginner programming student  
 💻 Exploring C#, Python, and SQLite  
 🛠 Turning theory into practice  
 🧠 Learning how software works behind the scenes  
