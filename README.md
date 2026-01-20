@@ -1,4 +1,8 @@
-## 🌱 I’m currently learning ...
+## 🎓 Beginner programming student  
+💻 Exploring C#, Python, and SQLite  
+🛠 Turning theory into practice  
+🧠 Learning how software works behind the scenes  
+🎯 Goal: Build a solid programming foundation
 
 <!--
 **Sedhain46/Sedhain46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
