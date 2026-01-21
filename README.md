@@ -1,92 +1,81 @@
-<h1 align="center">Hello, I am Smarika Sedhain</h1>
-<h3 align="center">Computer Science Student and Aspiring Software Engineer</h3>
+def gen():
+    return f"""
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hello+👋+I+am+Sushma+Poudel;Computer+Science+Student;Future+Software+Engineer" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=sushmapoudel&style=flat-square&color=ff69b4" />
 </p>
 
 ---
 
-## About Me
-
-I am a dedicated Computer Science student with a strong interest in software development and emerging technologies. I enjoy learning how systems work, solving logical problems, and building applications that are reliable, efficient, and user-friendly. I am continuously improving my technical and problem-solving skills through academic projects and independent practice.
+## 🌟 Profile Summary
+I am a Computer Science and Information Technology student who is passionate about software development. I enjoy learning new technologies, improving my coding skills, and building practical academic projects.
 
 ---
 
-## Academic and Technical Interests
-
+## 🎯 Focus Areas
 - Software Engineering  
 - Object-Oriented Programming  
-- Database Systems and Data Management  
-- Emerging Technologies  
-- Problem Solving and Logical Thinking  
+- Web Application Development  
+- Database Systems  
+- Internet of Things Fundamentals  
 
 ---
 
-## Technical Skills
-
-*Programming Languages*
-- C Sharp (Object-Oriented Programming, Console Applications, File Handling)  
-- Python (Fundamentals, Logic Building, Graphical User Interfaces)  
-
-*Databases*
-- SQLite  
-- Structured Query Language  
-
-*Operating Systems and Tools*
-- Linux (Command Line, Virtual Machines)  
-- Git and GitHub  
-- Visual Studio Code  
-
----
-
-## Academic Projects
-
-- *WeAreCars*  
-  A Python-based graphical user interface car booking system that includes user authentication, booking forms, and booking summaries.
-
-- *Student Grading System*  
-  A console-based C Sharp application demonstrating object-oriented principles, file handling, data persistence, and validation.
-
-- *Database Management Practice*  
-  Hands-on practice with SQLite, including creating tables and performing create, read, update, and delete operations.
-
----
-
-## GitHub Statistics
-
+## 🧰 Technical Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub statistics" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub contribution streak" height="160"/>
+  <img src="https://skillicons.dev/icons?i=cs,python,java,html,css,js,git,linux,sqlite&perline=5" />
 </p>
 
 ---
 
-## Top Programming Languages
+## 🧪 Practical Experience
+- Developed console-based and graphical user interface applications  
+- Implemented database-driven programs using SQLite  
+- Used GitHub for version control and collaboration  
+- Worked with Linux command line tools  
+
+---
+
+## 🗂️ Academic Work
+- Programming assignments and coursework projects  
+- Mini projects using C Sharp and Python  
+- Database management practice tasks  
+
+---
+
+## 📊 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushmapoudel&show_icons=true&theme=radical" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most used programming languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmapoudel&theme=radical" />
 </p>
 
 ---
 
-## Career Objective
-
-My career objective is to become a skilled software professional who develops high-quality, secure, and efficient software solutions. I aim to continuously learn, adapt to new technologies, and contribute positively to academic, professional, and community-based projects.
+## 🧠 Learning Philosophy
+<p align="center">
+  <em>"Consistent practice and curiosity are the foundations of strong software engineering skills."</em>
+</p>
 
 ---
 
-## Contact and Professional Links
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+## 🤝 Professional Presence
+<p align="center">
+  <a href="https://github.com/sushmapoudel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-Thank you for visiting my GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=110&section=footer"/>
+</p>
+"""
+
+open("README.md", "w", encoding="utf-8").write(gen())
