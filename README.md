@@ -1,11 +1,11 @@
 def gen():
     return f"""
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hello+👋+I+am+Sushma+Poudel;Computer+Science+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hello+👋+I+am+Smarika+Sedhain;Computer+Science+Student;Future+Software+Engineer" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushmapoudel&style=flat-square&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=smarikasedhain&style=flat-square&color=ff69b4" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ I am a Computer Science and Information Technology student who is passionate abo
 
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmapoudel&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smarikasedhain&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
